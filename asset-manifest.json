@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/facial-recog-web/static/js/main.6ba0e75d.chunk.js",
-    "main.js.map": "/facial-recog-web/static/js/main.6ba0e75d.chunk.js.map",
+    "main.js": "/facial-recog-web/static/js/main.8caf3397.chunk.js",
+    "main.js.map": "/facial-recog-web/static/js/main.8caf3397.chunk.js.map",
     "runtime~main.js": "/facial-recog-web/static/js/runtime~main.ee0c5f77.js",
     "runtime~main.js.map": "/facial-recog-web/static/js/runtime~main.ee0c5f77.js.map",
     "static/js/2.c272f57a.chunk.js": "/facial-recog-web/static/js/2.c272f57a.chunk.js",
     "static/js/2.c272f57a.chunk.js.map": "/facial-recog-web/static/js/2.c272f57a.chunk.js.map",
     "index.html": "/facial-recog-web/index.html",
-    "precache-manifest.55fe6bd5a2f3c2fb234e43abb9f67c42.js": "/facial-recog-web/precache-manifest.55fe6bd5a2f3c2fb234e43abb9f67c42.js",
+    "precache-manifest.c854f6e8a5f1c5fd1e2d797a9d1e4d67.js": "/facial-recog-web/precache-manifest.c854f6e8a5f1c5fd1e2d797a9d1e4d67.js",
     "service-worker.js": "/facial-recog-web/service-worker.js"
   }
 }
