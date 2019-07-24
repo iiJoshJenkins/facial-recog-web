@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/facial-recog-web/static/css/main.1ea50804.chunk.css",
-    "main.js": "/facial-recog-web/static/js/main.7b3f5744.chunk.js",
-    "main.js.map": "/facial-recog-web/static/js/main.7b3f5744.chunk.js.map",
+    "main.css": "/facial-recog-web/static/css/main.ed86dbcc.chunk.css",
+    "main.js": "/facial-recog-web/static/js/main.33dbb70b.chunk.js",
+    "main.js.map": "/facial-recog-web/static/js/main.33dbb70b.chunk.js.map",
     "runtime~main.js": "/facial-recog-web/static/js/runtime~main.ee0c5f77.js",
     "runtime~main.js.map": "/facial-recog-web/static/js/runtime~main.ee0c5f77.js.map",
-    "static/js/2.4f31c26c.chunk.js": "/facial-recog-web/static/js/2.4f31c26c.chunk.js",
-    "static/js/2.4f31c26c.chunk.js.map": "/facial-recog-web/static/js/2.4f31c26c.chunk.js.map",
+    "static/js/2.03100982.chunk.js": "/facial-recog-web/static/js/2.03100982.chunk.js",
+    "static/js/2.03100982.chunk.js.map": "/facial-recog-web/static/js/2.03100982.chunk.js.map",
     "index.html": "/facial-recog-web/index.html",
-    "precache-manifest.f8032fd2f393622e0dbc3eaadca11d8d.js": "/facial-recog-web/precache-manifest.f8032fd2f393622e0dbc3eaadca11d8d.js",
+    "precache-manifest.cd3316327e8cc771363a5a34aaff422c.js": "/facial-recog-web/precache-manifest.cd3316327e8cc771363a5a34aaff422c.js",
     "service-worker.js": "/facial-recog-web/service-worker.js",
-    "static/css/main.1ea50804.chunk.css.map": "/facial-recog-web/static/css/main.1ea50804.chunk.css.map",
+    "static/css/main.ed86dbcc.chunk.css.map": "/facial-recog-web/static/css/main.ed86dbcc.chunk.css.map",
     "static/media/App.css": "/facial-recog-web/static/media/SignPainter-Regular.feff963f.ttf",
     "static/media/americano.png": "/facial-recog-web/static/media/americano.b34e6511.png",
     "static/media/cappuccino.png": "/facial-recog-web/static/media/cappuccino.834fe4cb.png",
+    "static/media/complicated.png": "/facial-recog-web/static/media/complicated.e086d3e8.png",
     "static/media/espresso.png": "/facial-recog-web/static/media/espresso.9fc0a60a.png",
     "static/media/flatwhite.png": "/facial-recog-web/static/media/flatwhite.b39a371f.png",
+    "static/media/happy.png": "/facial-recog-web/static/media/happy.500c962a.png",
     "static/media/latte.png": "/facial-recog-web/static/media/latte.f3c70cfa.png",
-    "static/media/mocha.png": "/facial-recog-web/static/media/mocha.df1aa808.png"
+    "static/media/meh.png": "/facial-recog-web/static/media/meh.be31969c.png",
+    "static/media/mocha.png": "/facial-recog-web/static/media/mocha.df1aa808.png",
+    "static/media/ok.png": "/facial-recog-web/static/media/ok.c365819d.png"
   }
 }
