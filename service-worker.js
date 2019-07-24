@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/facial-recog-web/precache-manifest.0db20073da631cbedd091967f6bb57bb.js"
+  "/facial-recog-web/precache-manifest.e4ecf896f521b09799a865e245371c44.js"
 );
 
 self.addEventListener('message', (event) => {
