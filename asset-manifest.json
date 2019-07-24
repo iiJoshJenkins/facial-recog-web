@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.js": "/facial-recog-web/static/js/main.f337db97.chunk.js",
-    "main.js.map": "/facial-recog-web/static/js/main.f337db97.chunk.js.map",
+    "main.css": "/facial-recog-web/static/css/main.0c0a3989.chunk.css",
+    "main.js": "/facial-recog-web/static/js/main.e7275afb.chunk.js",
+    "main.js.map": "/facial-recog-web/static/js/main.e7275afb.chunk.js.map",
     "runtime~main.js": "/facial-recog-web/static/js/runtime~main.ee0c5f77.js",
     "runtime~main.js.map": "/facial-recog-web/static/js/runtime~main.ee0c5f77.js.map",
     "static/js/2.c272f57a.chunk.js": "/facial-recog-web/static/js/2.c272f57a.chunk.js",
     "static/js/2.c272f57a.chunk.js.map": "/facial-recog-web/static/js/2.c272f57a.chunk.js.map",
     "index.html": "/facial-recog-web/index.html",
-    "precache-manifest.ed86ab76bd79ead36b31cd5cdb784d6c.js": "/facial-recog-web/precache-manifest.ed86ab76bd79ead36b31cd5cdb784d6c.js",
-    "service-worker.js": "/facial-recog-web/service-worker.js"
+    "precache-manifest.ef3752fc9ab66bade5b5937f50990042.js": "/facial-recog-web/precache-manifest.ef3752fc9ab66bade5b5937f50990042.js",
+    "service-worker.js": "/facial-recog-web/service-worker.js",
+    "static/css/main.0c0a3989.chunk.css.map": "/facial-recog-web/static/css/main.0c0a3989.chunk.css.map",
+    "static/media/App.css": "/facial-recog-web/static/media/SignPainter-Regular.feff963f.ttf"
   }
 }
