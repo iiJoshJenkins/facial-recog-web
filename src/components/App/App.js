@@ -1,8 +1,58 @@
 import React, { Component } from "react";
+import "./App.css";
+import * as Latte from "../../assets/images/latte.png";
+import * as Cappuccino from "../../assets/images/cappuccino.png";
+import * as Mocha from "../../assets/images/mocha.png";
+import * as Americano from "../../assets/images/americano.png";
+import * as Espresso from "../../assets/images/espresso.png";
+import * as FlatWhite from "../../assets/images/flatwhite.png";
+
+import Home from "../../containers/home/home";
+import CoffeeSelection from "../../containers/coffeeSelection/coffeeSelection";
+import EmotionSelection from "../../containers/emotionSelection/emotionSelection";
+import OurSuggestion from "../../containers/ourSuggestion/ourSuggestion";
 
 export default class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      start: false,
+      selectedDrink: null,
+      selectedFeeling: null
+    };
+
+    this.drinksList = [
+      {
+        name: "Latte",
+        src: Latte
+      },
+      {
+        name: "Cappuccino",
+        src: Cappuccino
+      },
+      {
+        name: "Mocha",
+        src: Mocha
+      },
+      {
+        name: "Americano",
+        src: Americano
+      },
+      {
+        name: "Espresso",
+        src: Espresso
+      },
+      {
+        name: "FlatWhite",
+        src: FlatWhite
+      }
+    ];
+  }
+  changeState(state) {
+    this.setState(state);
+  }
   render() {
-    document.body.style.backgroundColor = "#000";
+    document.body.style.backgroundColor = "#fff";
     const params = window.location.search.split("&");
     const sortedParams = {
       gender: null,
@@ -25,12 +75,27 @@ export default class App extends Component {
         }
       }
     });
-
+    const buttonClass = `clickHere ` + sortedParams.gender;
     return (
       <div>
-        <h1 style={{ color: "white" }}>
-          You are a {sortedParams.age} {sortedParams.gender}
-        </h1>
+        {!this.state.start && (
+          <Home
+            buttonClass={buttonClass}
+            changeState={this.changeState.bind(this)}
+          />
+        )}
+        {this.state.start && !this.state.selectedDrink && (
+          <CoffeeSelection
+            drinksList={this.drinksList}
+            changeState={this.changeState.bind(this)}
+          />
+        )}
+        {this.state.selectedDrink && !this.state.selectedFeeling && (
+          <EmotionSelection changeState={this.changeState.bind(this)} />
+        )}
+        {this.state.selectedFeeling && (
+          <OurSuggestion feeling={this.state.selectedFeeling} />
+        )}
       </div>
     );
   }
