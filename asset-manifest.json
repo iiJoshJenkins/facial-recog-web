@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/facial-recog-web/static/css/main.48c0e40c.chunk.css",
-    "main.js": "/facial-recog-web/static/js/main.b1b37cbe.chunk.js",
-    "main.js.map": "/facial-recog-web/static/js/main.b1b37cbe.chunk.js.map",
+    "main.css": "/facial-recog-web/static/css/main.1ea50804.chunk.css",
+    "main.js": "/facial-recog-web/static/js/main.7b3f5744.chunk.js",
+    "main.js.map": "/facial-recog-web/static/js/main.7b3f5744.chunk.js.map",
     "runtime~main.js": "/facial-recog-web/static/js/runtime~main.ee0c5f77.js",
     "runtime~main.js.map": "/facial-recog-web/static/js/runtime~main.ee0c5f77.js.map",
-    "static/js/2.c272f57a.chunk.js": "/facial-recog-web/static/js/2.c272f57a.chunk.js",
-    "static/js/2.c272f57a.chunk.js.map": "/facial-recog-web/static/js/2.c272f57a.chunk.js.map",
+    "static/js/2.4f31c26c.chunk.js": "/facial-recog-web/static/js/2.4f31c26c.chunk.js",
+    "static/js/2.4f31c26c.chunk.js.map": "/facial-recog-web/static/js/2.4f31c26c.chunk.js.map",
     "index.html": "/facial-recog-web/index.html",
-    "precache-manifest.6ec694a84a62c4b9a470e4ffb65a5bcd.js": "/facial-recog-web/precache-manifest.6ec694a84a62c4b9a470e4ffb65a5bcd.js",
+    "precache-manifest.f8032fd2f393622e0dbc3eaadca11d8d.js": "/facial-recog-web/precache-manifest.f8032fd2f393622e0dbc3eaadca11d8d.js",
     "service-worker.js": "/facial-recog-web/service-worker.js",
-    "static/css/main.48c0e40c.chunk.css.map": "/facial-recog-web/static/css/main.48c0e40c.chunk.css.map",
-    "static/media/App.css": "/facial-recog-web/static/media/SignPainter-Regular.feff963f.ttf"
+    "static/css/main.1ea50804.chunk.css.map": "/facial-recog-web/static/css/main.1ea50804.chunk.css.map",
+    "static/media/App.css": "/facial-recog-web/static/media/SignPainter-Regular.feff963f.ttf",
+    "static/media/americano.png": "/facial-recog-web/static/media/americano.b34e6511.png",
+    "static/media/cappuccino.png": "/facial-recog-web/static/media/cappuccino.834fe4cb.png",
+    "static/media/espresso.png": "/facial-recog-web/static/media/espresso.9fc0a60a.png",
+    "static/media/flatwhite.png": "/facial-recog-web/static/media/flatwhite.b39a371f.png",
+    "static/media/latte.png": "/facial-recog-web/static/media/latte.f3c70cfa.png",
+    "static/media/mocha.png": "/facial-recog-web/static/media/mocha.df1aa808.png"
   }
 }
