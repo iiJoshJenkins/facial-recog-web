@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fe35f475a650514691ffe4798702297",
+    "revision": "ae16e867a8c214046150e81980944e47",
     "url": "/facial-recog-web/index.html"
   },
   {
-    "revision": "69066f5a0e99fc0c8ae7",
+    "revision": "3722d68002562dfdb857",
     "url": "/facial-recog-web/static/css/main.48c0e40c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facial-recog-web/static/js/2.c272f57a.chunk.js"
   },
   {
-    "revision": "69066f5a0e99fc0c8ae7",
-    "url": "/facial-recog-web/static/js/main.883b3290.chunk.js"
+    "revision": "3722d68002562dfdb857",
+    "url": "/facial-recog-web/static/js/main.b1b37cbe.chunk.js"
   },
   {
     "revision": "4ccd1363090a38cced0d",
