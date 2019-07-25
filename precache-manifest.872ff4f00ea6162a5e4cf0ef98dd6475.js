@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c125ab0df207a7bb6809f6e1fdeb651e",
+    "revision": "140be3ad22d394011eec76698ebf106f",
     "url": "/facial-recog-web/index.html"
   },
   {
-    "revision": "e798e5b8572b7593d300",
+    "revision": "d5f6572076cd30d915fe",
     "url": "/facial-recog-web/static/css/main.adb9412f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facial-recog-web/static/js/2.884f5162.chunk.js"
   },
   {
-    "revision": "e798e5b8572b7593d300",
-    "url": "/facial-recog-web/static/js/main.5a4d1145.chunk.js"
+    "revision": "d5f6572076cd30d915fe",
+    "url": "/facial-recog-web/static/js/main.20509bf5.chunk.js"
   },
   {
     "revision": "4ccd1363090a38cced0d",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facial-recog-web/static/media/espresso.f7f0bf61.png"
   },
   {
-    "revision": "898d0cfe1425081351f172882c972b6c",
-    "url": "/facial-recog-web/static/media/female-adult.898d0cfe.png"
+    "revision": "6f7e9dae10b9e565f1593c3697530ce9",
+    "url": "/facial-recog-web/static/media/female-adult.6f7e9dae.png"
   },
   {
     "revision": "cbff481c98fea47e04234cd6bb17bc92",
